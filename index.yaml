@@ -1,0 +1,28 @@
+apiVersion: v1
+entries:
+  helmechartpushxample:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2023-01-06T21:00:54.605605+08:00"
+    description: A Helm chart for Kubernetes
+    digest: c6f30303466e2bbf1abd2a08667689dedef36797675982e2f032ec8da01cfddf
+    name: helmechartpushxample
+    type: application
+    urls:
+    - https://raw.githubusercontent.com/strongant/helmechartpushxample/main/charts/helmechartpushxample-0.1.0.tgz
+    version: 0.1.0
+    home: https://baiwenhui.com/helmechartpushxample
+    icon: https://img.tnblog.net/userdata/heads/a011e63c901a433e847b6f0d3dbe1a2f.jpeg
+    kubeVersion: ^1.10.0-0
+    keywords:
+    - helmechartpushxample
+    - strongant
+    - search
+    - deploy
+    maintainers:
+    - email: strongant1994@gmail.com
+      name: strongant
+      url: https://baiwenhui.com/helmechartpushxample
+    sources:
+    - https://github.com/strongant/helmechartpushxample
+generated: "2023-01-06T21:00:54.604266+08:00"
